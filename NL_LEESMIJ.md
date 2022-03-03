@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @Technisch // Gyan
-- 👀 I’m interested in Coding, and configurations of Servers.
-- 🌱 I’m currently learning Java/JavaScript
-- 📫 How to reach me on Discord; Gyan...#0777
